@@ -19,43 +19,46 @@
 
 <br>
 
-<table align="center">
-<tr>
-<td width="55%" valign="top">
-
 ### About
 
-An indie developer building small, focused open-source tools.
-Currently maintaining **Solar Iconkit** — a Flutter package that
-bundles 1,231 icons across 6 native styles behind a single, type-safe
-widget. Also runs the companion icon browser at
-**[solar-icons-web.vercel.app](https://solar-icons-web.vercel.app)**.
+An indie developer building small, focused open-source tools. Currently maintaining **Solar Iconkit** — a Flutter package that bundles 1,231 icons across 6 native styles behind a single, type-safe widget. Also runs the companion icon browser at **[solar-icons-web.vercel.app](https://solar-icons-web.vercel.app)**.
 
-Interested in developer tooling, iconography systems, clean typography,
-and shipping polished packages with real documentation. Solo, open-source,
-and coffee-powered.
-
-</td>
-<td width="45%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sovankentech&show_icons=true&hide_border=true&count_private=true&hide_title=true&title_color=F97316&text_color=CDD6F4&icon_color=F97316&bg_color=00000000&text_bold=false" alt="GitHub stats" />
-
-</td>
-</tr>
-</table>
+Interested in developer tooling, iconography systems, clean typography, and shipping polished packages with real documentation. Solo, open-source, and coffee-powered.
 
 <br>
 
 ### Featured work
 
-<p align="center">
-  <a href="https://github.com/sovankentech/solar_iconkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sovankentech&repo=solar_iconkit&title_color=F97316&text_color=CDD6F4&icon_color=F97316&bg_color=0D1117&border_color=1F2937" alt="solar_iconkit" />
-  </a>
-  <a href="https://github.com/sovankentech/solar-icons-web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sovankentech&repo=solar-icons-web&title_color=F97316&text_color=CDD6F4&icon_color=F97316&bg_color=0D1117&border_color=1F2937" alt="solar-icons-web" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [solar_iconkit](https://github.com/sovankentech/solar_iconkit)
+
+Flutter package bundling the Solar icon set — **1,231 icons across 6 native styles**, behind a single type-safe widget. MIT-licensed, works offline, IconTheme-aware.
+
+<sub>
+  <a href="https://pub.dev/packages/solar_iconkit"><img src="https://img.shields.io/pub/v/solar_iconkit?style=flat-square&logo=dart&logoColor=white&color=0175C2" alt="pub version" /></a>
+  <a href="https://pub.dev/packages/solar_iconkit/score"><img src="https://img.shields.io/pub/points/solar_iconkit?style=flat-square&logo=dart&logoColor=white&color=0175C2" alt="pub points" /></a>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+</sub>
+
+</td>
+<td width="50%" valign="top">
+
+#### [solar-icons-web](https://github.com/sovankentech/solar-icons-web)
+
+Interactive icon browser and companion site — search 1,231 icons, switch styles instantly, copy Flutter widget code. Built with Next.js 16 + Tailwind CSS.
+
+<sub>
+  <a href="https://solar-icons-web.vercel.app"><img src="https://img.shields.io/badge/live-solar--icons--web-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
+  <img src="https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+</sub>
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -69,11 +72,10 @@ and coffee-powered.
 
 <br>
 
-### Insights
+### GitHub streak
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovankentech&layout=compact&hide_border=true&langs_count=8&title_color=F97316&text_color=CDD6F4&bg_color=00000000" alt="Top languages" />
-  <img height="170" src="https://streak-stats.demolab.com?user=sovankentech&hide_border=true&ring=F97316&fire=F97316&currStreakLabel=F97316&background=00000000&sideLabels=CDD6F4&dates=CDD6F4&currStreakNum=CDD6F4&sideNums=CDD6F4" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=sovankentech&hide_border=true&ring=F97316&fire=F97316&currStreakLabel=F97316&background=00000000&sideLabels=CDD6F4&dates=CDD6F4&currStreakNum=CDD6F4&sideNums=CDD6F4" alt="GitHub streak" />
 </p>
 
 <br>
