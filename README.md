@@ -64,7 +64,7 @@ Interactive icon browser and companion site — search 1,231 icons, switch style
 
 ### Tech I use
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,react,ts,tailwind,py,nodejs,git,github,vercel,vscode&perline=12" alt="Tech icons" />
   </a>
@@ -74,7 +74,7 @@ Interactive icon browser and companion site — search 1,231 icons, switch style
 
 ### GitHub streak
 
-<p align="center">
+<p>
   <img src="https://streak-stats.demolab.com?user=sovankentech&hide_border=true&ring=F97316&fire=F97316&currStreakLabel=F97316&background=00000000&sideLabels=CDD6F4&dates=CDD6F4&currStreakNum=CDD6F4&sideNums=CDD6F4" alt="GitHub streak" />
 </p>
 
@@ -82,7 +82,7 @@ Interactive icon browser and companion site — search 1,231 icons, switch style
 
 ### Say hi
 
-<p align="center">
+<p>
   <a href="mailto:sovanken.tech@gmail.com"><img src="https://img.shields.io/badge/Email-sovanken.tech%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://pub.dev/publishers/sovanken.tech%40gmail.com/packages"><img src="https://img.shields.io/badge/pub.dev-Publisher-0175C2?style=flat-square&logo=dart&logoColor=white" alt="pub.dev publisher" /></a>
   <a href="https://ko-fi.com/sovanken"><img src="https://img.shields.io/badge/Ko--fi-Buy+me+a+coffee-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white" alt="Ko-fi" /></a>
