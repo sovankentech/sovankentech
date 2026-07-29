@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3200&pause=900&color=F97316&center=true&vCenter=true&width=560&lines=Building+solar_iconkit+—+1%2C231+icons+for+Flutter;Companion+web+browser+on+Vercel;Ship+small%2C+ship+clean%2C+ship+open-source" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=520&lines=Building+solar_iconkit+for+Flutter;1%2C231+icons+across+6+native+styles;Companion+icon+browser+on+Vercel;Ship+small.+Ship+clean.+Ship+open-source." alt="Typing SVG" />
   </a>
 </p>
 
