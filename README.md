@@ -1,10 +1,10 @@
-<h1 align="center">SOVANKEN</h1>
+<h1>SOVANKEN</h1>
 
-<p align="center">
+<p>
   <em>Flutter developer · Open-source maintainer · Cambodia</em>
 </p>
 
-<p align="center">
+<p>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=520&lines=Building+solar_iconkit+for+Flutter;1%2C231+icons+across+6+native+styles;Companion+icon+browser+on+Vercel;Ship+small.+Ship+clean.+Ship+open-source." alt="Typing SVG" />
   </a>
