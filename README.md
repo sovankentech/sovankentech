@@ -120,3 +120,4 @@ Every coffee keeps Solar Iconkit updated and free for everyone.
 <div align="center">
   <sub>Made with care · Solar Iconkit · MIT</sub>
 </div>
+
