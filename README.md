@@ -1,4 +1,4 @@
-<h1 align="center">sovanken</h1>
+<h1 align="center">SOVANKEN</h1>
 
 <p align="center">
   <em>Flutter developer · Open-source maintainer · Cambodia</em>
