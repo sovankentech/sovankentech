@@ -75,7 +75,3 @@ Interactive icon browser and companion site — search 1,231 icons, switch style
 </p>
 
 If any of my work saves you time, [buy me a coffee](https://ko-fi.com/sovanken) — every one helps keep the packages updated and free.
-
----
-
-<sub>Crafted with care · <a href="https://pub.dev/packages/solar_iconkit">Solar Iconkit</a> · MIT</sub>
