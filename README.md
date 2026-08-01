@@ -1,12 +1,6 @@
-<h1>Hi, I'm SOVANKEN</h1>
+<h1>Hi, I'm Ken</h1>
 
 <p><em>Flutter developer · Open-source maintainer · Cambodia</em></p>
-
-<p>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=F97316&center=false&vCenter=true&width=520&lines=Building+solar_iconkit+for+Flutter;1%2C231+icons+across+6+native+styles;Companion+icon+browser+on+Vercel;Ship+small.+Ship+clean.+Ship+open-source." alt="Typing SVG" />
-  </a>
-</p>
 
 <p>
   <a href="https://pub.dev/packages/solar_iconkit"><img src="https://img.shields.io/badge/pub.dev-solar__iconkit-0175C2?style=flat-square&logo=dart&logoColor=white" alt="pub.dev" /></a>
@@ -68,14 +62,6 @@ Interactive icon browser and companion site — search 1,231 icons, switch style
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,react,ts,tailwind,py,nodejs,git,github,vercel,vscode&perline=12" alt="Tech icons" />
   </a>
-</p>
-
-<br>
-
-### Activity
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=sovankentech&hide_border=true&ring=F97316&fire=F97316&currStreakLabel=F97316&background=00000000&sideLabels=CDD6F4&dates=CDD6F4&currStreakNum=CDD6F4&sideNums=CDD6F4" alt="GitHub streak" />
 </p>
 
 <br>
