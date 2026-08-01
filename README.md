@@ -1,27 +1,21 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/sovankentech/sovankentech/main/assets/wave.gif" width="30" />
-  Hi, I'm SOVANKEN
-</h1>
+<h1>Hi, I'm SOVANKEN</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=F97316&center=true&vCenter=true&width=560&lines=Flutter+Developer;Open-Source+Maintainer;1%2C231+Icons.+6+Styles.+1+Widget.;Ship+small.+Ship+clean.+Ship+open." alt="Typing SVG" />
+<p><em>Flutter developer · Open-source maintainer · Cambodia</em></p>
+
+<p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=F97316&center=false&vCenter=true&width=520&lines=Building+solar_iconkit+for+Flutter;1%2C231+icons+across+6+native+styles;Companion+icon+browser+on+Vercel;Ship+small.+Ship+clean.+Ship+open-source." alt="Typing SVG" />
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://pub.dev/packages/solar_iconkit"><img src="https://img.shields.io/pub/v/solar_iconkit?style=for-the-badge&logo=dart&logoColor=white&color=0175C2&labelColor=1a1a1a" alt="pub version" /></a>
-  <a href="https://github.com/sovankentech/solar_iconkit/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/sovankentech/solar_iconkit/ci.yml?style=for-the-badge&labelColor=1a1a1a&color=F97316" alt="CI" /></a>
-  <a href="https://ko-fi.com/sovanken"><img src="https://img.shields.io/badge/SUPPORT-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=1a1a1a" alt="Ko-fi" /></a>
+<p>
+  <a href="https://pub.dev/packages/solar_iconkit"><img src="https://img.shields.io/badge/pub.dev-solar__iconkit-0175C2?style=flat-square&logo=dart&logoColor=white" alt="pub.dev" /></a>
+  <a href="https://solar-icons-web.vercel.app"><img src="https://img.shields.io/badge/live-solar--icons--web-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live site" /></a>
+  <a href="https://ko-fi.com/sovanken"><img src="https://img.shields.io/badge/support-Ko--fi-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white" alt="Ko-fi" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sovankentech&label=Profile+views&color=F97316&style=flat-square" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sovankentech&label=PROFILE+VIEWS&color=F97316&style=for-the-badge&labelColor=1a1a1a" alt="Profile views" />
-</p>
-
-<p align="center">Cambodia · Solo dev · Coffee-powered</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
-
-<br>
+---
 
 ### About
 
@@ -33,65 +27,69 @@ Solo dev, open-source by choice, coffee-powered by necessity.
 
 <br>
 
-### Featured
+### Featured work
 
-<table align="center">
-<tr><td width="100%">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**[solar_iconkit](https://github.com/sovankentech/solar_iconkit)** — Flutter icon package
+#### [solar_iconkit](https://github.com/sovankentech/solar_iconkit)
 
-1,231 icons · 6 native styles · one widget · MIT-licensed · works offline · IconTheme-aware
+Flutter package bundling the Solar icon set — **1,231 icons across 6 native styles**, behind a single type-safe widget. MIT-licensed, works offline, IconTheme-aware.
 
-</td></tr>
+<sub>
+  <a href="https://pub.dev/packages/solar_iconkit"><img src="https://img.shields.io/pub/v/solar_iconkit?style=flat-square&logo=dart&logoColor=white&color=0175C2" alt="pub version" /></a>
+  <a href="https://pub.dev/packages/solar_iconkit/score"><img src="https://img.shields.io/pub/points/solar_iconkit?style=flat-square&logo=dart&logoColor=white&color=0175C2" alt="pub points" /></a>
+  <a href="https://github.com/sovankentech/solar_iconkit/actions/workflows/ci.yml"><img src="https://github.com/sovankentech/solar_iconkit/actions/workflows/ci.yml/badge.svg?style=flat-square" alt="CI" /></a>
+</sub>
+
+</td>
+<td width="50%" valign="top">
+
+#### [solar-icons-web](https://github.com/sovankentech/solar-icons-web)
+
+Interactive icon browser and companion site — search 1,231 icons, switch styles instantly, copy Flutter widget code. Built with Next.js 16 + Tailwind CSS 4.
+
+<sub>
+  <a href="https://solar-icons-web.vercel.app"><img src="https://img.shields.io/badge/live-solar--icons--web-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
+  <img src="https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+</sub>
+
+</td>
+</tr>
 </table>
 
 <br>
 
-### Tech Stack
+### Tech I reach for
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,react,ts,tailwind,py,nodejs,git,github,vscode&perline=11&theme=dark" alt="Tech icons" />
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,react,ts,tailwind,py,nodejs,git,github,vercel,vscode&perline=12" alt="Tech icons" />
+  </a>
 </p>
 
 <br>
 
-### Trophies
+### Activity
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sovankentech&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" alt="Trophies" />
+<p>
+  <img src="https://streak-stats.demolab.com?user=sovankentech&hide_border=true&ring=F97316&fire=F97316&currStreakLabel=F97316&background=00000000&sideLabels=CDD6F4&dates=CDD6F4&currStreakNum=CDD6F4&sideNums=CDD6F4" alt="GitHub streak" />
 </p>
-
-<br>
-
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sovankentech&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=F97316&icon_color=F97316&text_color=CDD6F4" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovankentech&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=F97316&text_color=CDD6F4" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sovankentech&theme=radical&hide_border=true&background=00000000&ring=F97316&fire=F97316&currStreakLabel=F97316" alt="Streak stats" />
-</p>
-
-<br>
-
-### Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sovankentech/sovankentech/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 
 <br>
 
 ### Connect
 
-<p align="center">
-  <a href="mailto:sovanken.tech@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" /></a>
-  <a href="https://ko-fi.com/sovanken"><img src="https://img.shields.io/badge/Buy+me+a+coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=1a1a1a" /></a>
-  <a href="https://pub.dev/publishers/sovanken.tech%40gmail.com/packages"><img src="https://img.shields.io/badge/pub.dev-Publisher-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=1a1a1a" /></a>
+<p>
+  <a href="mailto:sovanken.tech@gmail.com"><img src="https://img.shields.io/badge/Email-sovanken.tech%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://pub.dev/publishers/sovanken.tech%40gmail.com/packages"><img src="https://img.shields.io/badge/pub.dev-Publisher-0175C2?style=flat-square&logo=dart&logoColor=white" alt="pub.dev publisher" /></a>
+  <a href="https://ko-fi.com/sovanken"><img src="https://img.shields.io/badge/Ko--fi-Buy+me+a+coffee-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white" alt="Ko-fi" /></a>
 </p>
 
-<p align="center"><sub>If my work saves you time, a coffee keeps it maintained</sub></p>
+If any of my work saves you time, [buy me a coffee](https://ko-fi.com/sovanken) — every one helps keep the packages updated and free.
+
+---
+
+<sub>Crafted with care · <a href="https://pub.dev/packages/solar_iconkit">Solar Iconkit</a> · MIT</sub>
