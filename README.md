@@ -1,7 +1,5 @@
 <h1>Hi, I'm Ken</h1>
 
-<p><em>Flutter developer · Open-source maintainer · Cambodia</em></p>
-
 <p>
   <a href="https://pub.dev/packages/solar_iconkit"><img src="https://img.shields.io/badge/pub.dev-solar__iconkit-0175C2?style=flat-square&logo=dart&logoColor=white" alt="pub.dev" /></a>
   <a href="https://solar-icons-web.vercel.app"><img src="https://img.shields.io/badge/live-solar--icons--web-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live site" /></a>
